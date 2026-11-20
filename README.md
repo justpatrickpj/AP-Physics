@@ -5,10 +5,13 @@ A free, single-file study app for AP Physics 1 forces. It runs entirely in the b
 ## Features
 
 - **Classic exams** (Easy, Standard, Advanced, Challenging): multiple choice plus free response, one question per page.
-- **Focus exams** (same four levels): weighted toward springs, the gravitational constant, and centripetal force, with extra conceptual questions, apparent weight and elevators, horizontal-launch projectiles, and only occasional slope problems.
+- **Specialized exams** (same four levels): weighted toward springs, the gravitational constant, and centripetal force, with extra conceptual questions, apparent weight and elevators, horizontal-launch projectiles, and only occasional slope problems.
+- **Custom exams** (same four levels): pick any three lesson subjects from drop-down menus (already-picked subjects are grayed out) and the exam focuses heavily on them.
+- **Diagrams** on questions, with a **Simple / Detailed** image setting in the top bar.
+- **Given formulas** shown for each question on Easy and Standard.
 - **Easy mode:** instant grading, two tries per question, red/green feedback, and advice tied to the choice you made.
 - **Standard and above:** locked multiple-choice and free-response sections, an overview screen, and score reviews. Advanced reveals multiple-choice answers when you move on to free response. Challenging shows all answers only at the end.
-- **Interactive lessons**, including gravity between planets (G), springs, circular motion, elevators, and more.
+- **Interactive lessons**, including Conceptual Forces, gravity between planets (G), springs, circular motion, elevators, and more.
 - **Auto-save:** your exam is saved in your browser until you press **Reset**.
 
 ## Use it
